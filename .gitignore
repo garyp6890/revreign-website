@@ -1,9 +1,0 @@
-# Ignore node dependencies
-node_modules/
-
-# Ignore build outputs
-dist/
-project-bolt-sb1-azymkyzb/project/dist/
-
-# Logs
-*.log
